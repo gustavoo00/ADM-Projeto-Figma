@@ -1,0 +1,8 @@
+{
+  "rewrites": [
+    {
+      "source": "/",
+      "destination": "/EletroGeeestao_html.html"
+    }
+  ]
+}
